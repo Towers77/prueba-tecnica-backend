@@ -1,18 +1,12 @@
 # Prueba Tecnica BircleAI
 
----
-
 Este proyecto es una simple API utilizando FastAPI y LlamaIndex para una prueba tecnica.
 
 ### Requisitos
 
----
-
 - Python version >= 3.9
 
 ### Datos importantes
-
----
 
 - Se debe crear un directorio `/data` en el cual pondremos los documentos a indexar.
 - Lo mas conveniente seria utilizar el indexador de LlamaIndex con OpenAI, pero para los fines de este proyecto (y falta de fondos) se utilizara [Groq](https://groq.com/) como modelo llm.
