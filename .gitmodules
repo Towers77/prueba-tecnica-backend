@@ -1,0 +1,3 @@
+[submodule "prueba-tecnica-front"]
+	path = prueba-tecnica-front
+	url = https://github.com/Towers77/prueba-tecnica-front.git
