@@ -41,7 +41,7 @@ source env/bin/activate
 En Windows
 
 ```bash
-env\bin\activate.bat
+.\env\Scripts\activate
 ```
 
 3. Instalamos las dependencias del proyecto:
